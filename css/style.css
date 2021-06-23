@@ -1,0 +1,54 @@
+body {
+    font-family: 'Bitter', serif;
+    font-size: 18px;
+    font-weight: lighter;
+    color: black;
+    margin: 0;
+}
+
+.highlight {
+    font-weight: 700;
+    font-size: 34px;
+    color: rgb(255, 0, 136);
+    font-weight: bold;
+}
+
+.hello {
+    font-weight: 600;
+}
+
+.half {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+
+.hire_me {
+    text-decoration: none;
+    padding: 6px 15px;
+    border-radius: 2px;
+    color: white;
+    font-size: medium;
+    background-image: linear-gradient(180deg, rgb(255, 71, 132), rgb(240, 17, 155));
+}
+
+.top-banner {
+    background-image: url("../images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section {
+    height: 500px;
+    padding: 2%;
+}
+
+.half img {
+    width: 85%;
+}
+
+.bio-banner {
+    background-image: url("../images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
